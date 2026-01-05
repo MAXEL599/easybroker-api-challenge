@@ -3,11 +3,11 @@ Desafio de API EasyBroker  con ruby
 Este proyecto es principalmente para implementar un cliente en ruby para consumir API para EasyBroker utilizando el ambiente de prueba 
 El obejtivo es obtener la lista de propiedades disponibles e imprimir sus titulos en la terminal siguiendo buenas practicas bascias de diseño y oop 
 Alcance del proyecto
-- Consumo de la API de EasyBroker (ambiente de pruebas)
-- Autenticación mediante API Key
-- Lectura y parseo de respuestas JSON
-- Impresión de títulos de propiedades en consola
-- Prueba unitaria básica con RSpec
+Consumo de la API de EasyBroker (ambiente de pruebas)
+Autenticación mediante API Key
+Lectura y parseo de respuestas JSON
+Impresión de títulos de propiedades en consola
+Prueba unitaria básica con RSpec
 
 Estrcutura del proyecto 
 api/
